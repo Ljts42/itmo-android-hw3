@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hw3-contacts</string>
+    <string name="no_permission_msg">Невозможно получить список контактов, так как отсутствует разрешение</string>
+</resources>

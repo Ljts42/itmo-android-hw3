@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hw3-contacts</string>
+    <string name="no_permission_msg">Impossible to get a list of contacts because there is no permission</string>
+</resources>
